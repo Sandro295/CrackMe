@@ -1,0 +1,5 @@
+﻿  Cracking.cpp
+f:\dev\kasp\crackingtest\cracking\cracking\cracking.cpp(18): warning C4018: '<': signed/unsigned mismatch
+f:\dev\kasp\crackingtest\cracking\cracking\cracking.cpp(52): warning C4101: 'c': unreferenced local variable
+  LINK : F:\dev\KASP\CrackingTest\Cracking\Debug\Cracking.exe not found or not built by the last incremental link; performing full link
+  Cracking.vcxproj -> F:\dev\KASP\CrackingTest\Cracking\Debug\Cracking.exe
